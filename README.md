@@ -2,6 +2,9 @@
 
 Version 1.6, March 2024
 
+> [!Note]
+> This license helps people keep the code public and also prevents great loss by creating FOSS projects.
+
 ## Explaining Terms and Conditions
 
 1. **Distribution and Modification**: Any modifications made to the code covered by this license for distribution purposes must be made available to the public for free of cost. This means that if you improve or customize the software, you need to share those modifications with others. 
