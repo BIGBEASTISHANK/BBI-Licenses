@@ -1,6 +1,6 @@
 # BBI FOSS Distribution License (BBIFDL)
 
-Version 1.6, March 2024
+Version 1.7, March 2024
 
 > [!Note]
 > This license helps people keep the code public and also prevents great loss by creating FOSS projects.
