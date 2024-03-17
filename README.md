@@ -1,4 +1,4 @@
-# BBI Distribution License (BBI DL)
+# BBI FOSS Distribution License (BBIFDL)
 
 Version 1.6, March 2024
 
@@ -35,6 +35,6 @@ Version 1.6, March 2024
 
 6. **Uniform License**: All copies of the original code must be distributed under the same BBI Distribution License. This maintains consistency in licensing terms and encourages collaboration among developers.
 
-7. **Non-Proprietary Usage**: The code covered by BBI DL cannot be used in any proprietary manner. This ensures that the software remains open and accessible to all users.
+7. **Non-Proprietary Usage**: The code covered by BBIFDL cannot be used in any proprietary manner. This ensures that the software remains open and accessible to all users.
 
 8. **Profit Sharing Chain**: If a modified version of the code is further redistributed, the profit sharing obligation extends to the immediate previous distributor. Each subsequent distributor is responsible for sharing 1% of the profit with the distributor from whom they obtained the code. The profit sharing chain does not extend to the original code owner beyond the first distribution. Therefore, any profit generated from subsequent distributions is shared only with the distributor from whom the code was directly obtained.
