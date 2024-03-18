@@ -1,5 +1,8 @@
 # BBI Licenses Repository
 
+> [!Important]
+> Tried my best to make a license but failed :(
+
 This repository contains the original copies of two licenses developed by BIG BEAST ISHANK (BBI): the BBI FOSS Distribution License (BFDL) and the BBI OSS Game Distribution License (BOGDL).
 
 ## BBI FOSS Distribution License (BFDL)
